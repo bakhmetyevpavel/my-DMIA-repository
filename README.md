@@ -4,3 +4,5 @@
  just a new string
 
 i realy want it to work
+
+it must works!!!
